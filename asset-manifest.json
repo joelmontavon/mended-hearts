@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/mended-hearts/static/css/main.073c9b0a.css",
-    "main.js": "/mended-hearts/static/js/main.cd6a8a17.js",
+    "main.css": "/mended-hearts/static/css/main.7bc67d46.css",
+    "main.js": "/mended-hearts/static/js/main.940f06c2.js",
     "static/js/787.a262bd63.chunk.js": "/mended-hearts/static/js/787.a262bd63.chunk.js",
-    "static/media/logo.svg": "/mended-hearts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ice-water.png": "/mended-hearts/static/media/ice-water.5e4f97bdeecb2c4cd83f.png",
+    "static/media/daddio.png": "/mended-hearts/static/media/daddio.acb8ec48e3d361e6c814.png",
+    "static/media/salt.png": "/mended-hearts/static/media/salt.a3e5a2e9f01871277d6b.png",
     "index.html": "/mended-hearts/index.html",
-    "main.073c9b0a.css.map": "/mended-hearts/static/css/main.073c9b0a.css.map",
-    "main.cd6a8a17.js.map": "/mended-hearts/static/js/main.cd6a8a17.js.map",
+    "main.7bc67d46.css.map": "/mended-hearts/static/css/main.7bc67d46.css.map",
+    "main.940f06c2.js.map": "/mended-hearts/static/js/main.940f06c2.js.map",
     "787.a262bd63.chunk.js.map": "/mended-hearts/static/js/787.a262bd63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cd6a8a17.js"
+    "static/css/main.7bc67d46.css",
+    "static/js/main.940f06c2.js"
   ]
 }
